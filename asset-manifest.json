@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Web-Hackathon-Yeshwanth/static/css/main.00e9c1a8.css",
-    "main.js": "/Web-Hackathon-Yeshwanth/static/js/main.6c15b154.js",
+    "main.js": "/Web-Hackathon-Yeshwanth/static/js/main.47675785.js",
     "static/css/641.beeadcd5.chunk.css": "/Web-Hackathon-Yeshwanth/static/css/641.beeadcd5.chunk.css",
     "static/js/641.620ce6ab.chunk.js": "/Web-Hackathon-Yeshwanth/static/js/641.620ce6ab.chunk.js",
     "static/js/435.f79dc825.chunk.js": "/Web-Hackathon-Yeshwanth/static/js/435.f79dc825.chunk.js",
@@ -31,7 +31,7 @@
     "static/media/Arrow.svg": "/Web-Hackathon-Yeshwanth/static/media/Arrow.2aa046cef6c722596b055a335b4a9792.svg",
     "index.html": "/Web-Hackathon-Yeshwanth/index.html",
     "main.00e9c1a8.css.map": "/Web-Hackathon-Yeshwanth/static/css/main.00e9c1a8.css.map",
-    "main.6c15b154.js.map": "/Web-Hackathon-Yeshwanth/static/js/main.6c15b154.js.map",
+    "main.47675785.js.map": "/Web-Hackathon-Yeshwanth/static/js/main.47675785.js.map",
     "641.beeadcd5.chunk.css.map": "/Web-Hackathon-Yeshwanth/static/css/641.beeadcd5.chunk.css.map",
     "641.620ce6ab.chunk.js.map": "/Web-Hackathon-Yeshwanth/static/js/641.620ce6ab.chunk.js.map",
     "435.f79dc825.chunk.js.map": "/Web-Hackathon-Yeshwanth/static/js/435.f79dc825.chunk.js.map",
@@ -43,6 +43,6 @@
   },
   "entrypoints": [
     "static/css/main.00e9c1a8.css",
-    "static/js/main.6c15b154.js"
+    "static/js/main.47675785.js"
   ]
 }
